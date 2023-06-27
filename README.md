@@ -1,10 +1,7 @@
 ### Hi there! 👋 I'm Bhavya Sri Aakuraathi, a passionate and results-driven data analyst in the field of Data science. I thrive on the challenge of extracting valuable insights from complex datasets and transforming them into actionable recommendations. I am skilled in utilizing tools such as SQL, and Excel to gather, clean, and analyze data effectively, Python. 
 
-
-##Languages and Tools:
+Languages and Tools:
 _____________________________________________________________________________
-https://camo.githubusercontent.com/c14da6e67f7bb008d9c33949895957df5e9c110d9c5533965dd738c32cd6468d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f77657225323042492d4632433831313f6c6f676f3d706f7765726269266c6f676f436f6c6f723d626c61636b267374796c653d666f722d7468652d6261646765
-
 
 
 <!--
