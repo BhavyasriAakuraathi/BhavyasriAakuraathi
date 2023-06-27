@@ -1,7 +1,5 @@
 ### Hi there! 👋 I'm Bhavya Sri Aakuraathi, a passionate and results-driven data analyst in the field of Data science. I thrive on the challenge of extracting valuable insights from complex datasets and transforming them into actionable recommendations. I am skilled in utilizing tools such as SQL, and Excel to gather, clean, and analyze data effectively, Python. 
 
-Languages and Tools:
-_____________________________________________________________________________
 
 
 <!--
